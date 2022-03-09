@@ -1,14 +1,9 @@
 # Better Collaboration - Best of Git Flows
 
-This repository contains all sources and slides to replay the Tutoring-Session *Better Collaboration - Best of Git Flows*.
+This repository contains slides to replay the Tutoring-Session *Better Collaboration - Best of Git Flows*.
 
-## Prerequisites
+## Instructions
 
-* Unrestricted Internet Access for Maven usage
-* Local IDE installation, eg. IntelliJ or Eclipse (optional). You can download IntelliJ CE here: https://www.jetbrains.com/idea/download/
-* Java 11+ (might be included in IDE)
-* Maven 3+ (might be included in IDE)
+For the tutoring this GitLab repository is used: https://gitlab.com/ice09/st-better-collaboration-git-workflows
 
-## Run
-
-* Tests can be executed with Maven or directly in your IDE.
+_This repository only contains the slides of the tutoring._
